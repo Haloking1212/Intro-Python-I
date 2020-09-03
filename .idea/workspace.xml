@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f2beb4d4-1c42-4d2a-82a1-98b22fc9b7eb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/00_hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/00_hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/01_bignum.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/01_bignum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/02_datatypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/02_datatypes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/03_modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/03_modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/04_printing.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/04_printing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/05_lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/05_lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06_tuples.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/06_tuples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/07_slices.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/07_slices.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/08_comprehensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/08_comprehensions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/09_dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/09_dictionaries.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ekfkDYk7VHN6ywF2ISPD7FnKhn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python.09_dictionaries">
+    <configuration name="05_lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Intro-Python-I" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/05_lists.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="06_tuples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Intro-Python-I" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/06_tuples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="07_slices" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Intro-Python-I" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/07_slices.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="08_comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Intro-Python-I" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/08_comprehensions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="09_dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Intro-Python-I" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/09_dictionaries.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.09_dictionaries" />
+        <item itemvalue="Python.08_comprehensions" />
+        <item itemvalue="Python.07_slices" />
+        <item itemvalue="Python.06_tuples" />
+        <item itemvalue="Python.05_lists" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2beb4d4-1c42-4d2a-82a1-98b22fc9b7eb" name="Default Changelist" comment="" />
+      <created>1594870651381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594870651381</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1379" height="244" key="GridCell.Tab.0.bottom" timestamp="1599101993000">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1379" height="244" key="GridCell.Tab.0.bottom/0.23.1680.958/-1920.23.1920.1057@0.23.1680.958" timestamp="1596833044103" />
+    <state width="1379" height="244" key="GridCell.Tab.0.bottom/0.23.1680.960/-1920.23.1920.1057@0.23.1680.960" timestamp="1596250598414" />
+    <state width="1379" height="244" key="GridCell.Tab.0.bottom/0.23.1680.963/-1920.23.1920.1057@0.23.1680.963" timestamp="1599101993000" />
+    <state width="1379" height="244" key="GridCell.Tab.0.bottom/0.23.1680.965/-1920.23.1920.1057@0.23.1680.965" timestamp="1599099014952" />
+    <state width="1379" height="244" key="GridCell.Tab.0.center" timestamp="1599101992999">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1379" height="244" key="GridCell.Tab.0.center/0.23.1680.958/-1920.23.1920.1057@0.23.1680.958" timestamp="1596833044102" />
+    <state width="1379" height="244" key="GridCell.Tab.0.center/0.23.1680.960/-1920.23.1920.1057@0.23.1680.960" timestamp="1596250598413" />
+    <state width="1379" height="244" key="GridCell.Tab.0.center/0.23.1680.963/-1920.23.1920.1057@0.23.1680.963" timestamp="1599101992999" />
+    <state width="1379" height="244" key="GridCell.Tab.0.center/0.23.1680.965/-1920.23.1920.1057@0.23.1680.965" timestamp="1599099014951" />
+    <state width="1379" height="244" key="GridCell.Tab.0.left" timestamp="1599101992998">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1379" height="244" key="GridCell.Tab.0.left/0.23.1680.958/-1920.23.1920.1057@0.23.1680.958" timestamp="1596833044102" />
+    <state width="1379" height="244" key="GridCell.Tab.0.left/0.23.1680.960/-1920.23.1920.1057@0.23.1680.960" timestamp="1596250598412" />
+    <state width="1379" height="244" key="GridCell.Tab.0.left/0.23.1680.963/-1920.23.1920.1057@0.23.1680.963" timestamp="1599101992998" />
+    <state width="1379" height="244" key="GridCell.Tab.0.left/0.23.1680.965/-1920.23.1920.1057@0.23.1680.965" timestamp="1599099014951" />
+    <state width="1379" height="244" key="GridCell.Tab.0.right" timestamp="1599101992999">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1379" height="244" key="GridCell.Tab.0.right/0.23.1680.958/-1920.23.1920.1057@0.23.1680.958" timestamp="1596833044102" />
+    <state width="1379" height="244" key="GridCell.Tab.0.right/0.23.1680.960/-1920.23.1920.1057@0.23.1680.960" timestamp="1596250598413" />
+    <state width="1379" height="244" key="GridCell.Tab.0.right/0.23.1680.963/-1920.23.1920.1057@0.23.1680.963" timestamp="1599101992999" />
+    <state width="1379" height="244" key="GridCell.Tab.0.right/0.23.1680.965/-1920.23.1920.1057@0.23.1680.965" timestamp="1599099014952" />
+    <state x="509" y="153" width="598" height="735" key="find.popup" timestamp="1594872014627">
+      <screen x="0" y="23" width="1680" height="958" />
+    </state>
+    <state x="509" y="153" width="598" height="735" key="find.popup/0.23.1680.958/-1920.23.1920.1057@0.23.1680.958" timestamp="1594872014627" />
+  </component>
+</project>
