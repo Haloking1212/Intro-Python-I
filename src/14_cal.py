@@ -30,3 +30,46 @@ it should use today’s date to get the month and year.
 import sys
 import calendar
 from datetime import datetime
+
+# print to the user
+# ask for the month and the year
+# seperate by comma
+# create a function that takes the parameters
+# print the date
+
+# Telling user to input month and year.
+prompt = input("(separated by comma) Enter Month, Year: ")
+
+
+# cally prints the input month and year of the calendar and todays month and year if no user input.
+def cally(parameter):
+
+# today is assigned to datetime.today(), grab_year is assigned to today.year, grab_month is assigned to today.month
+# datetime.today takes in two arguments month and year.
+
+    today = datetime.today()
+    grab_year = today.year
+    grab_month = today.month
+
+# this is a python control flow step 1 prints todays month and year if no user input
+#    step 2 prints the accepted prompt input by the user
+#    step 3 prints the current year and user input month.
+
+    if not parameter:
+        print(calendar.month(grab_year, grab_month))
+
+    elif "," in prompt:
+        user_input = [i for i in prompt.split(",")]
+        get_month = int(user_input[0])
+        get_year = int(user_input[1])
+        print(calendar.month(get_year, get_month))
+
+    else:
+        grab_month = int(parameter)
+        print(calendar.month(grab_year, grab_month))
+
+
+cally(prompt)
+
+
+
